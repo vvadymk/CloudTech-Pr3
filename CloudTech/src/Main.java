@@ -5,6 +5,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		System.out.println("Introduction to cloud technology");
 		System.out.println("2 + 2 = 4")
+		System.out.println("Hello World");
 	}
 
 }
